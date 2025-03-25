@@ -19,7 +19,7 @@ To run this project, you'll need:
 ### Setup and Installation
 1. Clone this repository:
 ```
-git clone https://github.com/YourUsername/YourRepositoryName.git
+git clone https://github.com/AISoltani/Yolov11-Android-Tool-Kotlin.git
 cd YourRepositoryName
 ```
 2. Open the project in Android Studio.
