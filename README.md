@@ -33,3 +33,8 @@ cd YourRepositoryName
 3. Detected objects and segmented regions are displayed on the screen.
 4. Users can adjust the zoom level using the slidebar for a closer or wider view of the scene.
 5. Captured images are saved with overlays for further reference.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR1.jpg" alt="Image 1" width="400"/>
+  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg" alt="Image 2" width="400"/>
+</div>
