@@ -20,7 +20,7 @@ To run this project, you'll need:
 1. Clone this repository:
 ```
 git clone https://github.com/AISoltani/Yolov11-Android-Tool-Kotlin.git
-cd YourRepositoryName
+cd Yolov11-Android-Tool-Kotlin
 ```
 2. Open the project in Android Studio.
 3. Add your YOLO model ( file) to the  folder.
